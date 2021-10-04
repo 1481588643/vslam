@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo.dir/glog.cpp.o  -o demo -Wl,-rpath,/usr/local/lib /usr/local/lib/libgflags.so.2.2.2 -lpthread 

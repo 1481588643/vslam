@@ -1,0 +1,3 @@
+/home/wang/L1/code_google/build/CMakeFiles/rebuild_cache.dir
+/home/wang/L1/code_google/build/CMakeFiles/demo01.dir
+/home/wang/L1/code_google/build/CMakeFiles/edit_cache.dir

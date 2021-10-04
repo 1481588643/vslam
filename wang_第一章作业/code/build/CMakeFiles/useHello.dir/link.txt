@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/useHello.dir/useHello.cpp.o  -o useHello -Wl,-rpath,/home/wang/L1/code/build libhello_shared.so 

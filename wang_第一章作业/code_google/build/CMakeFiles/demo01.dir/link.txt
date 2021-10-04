@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo01.dir/glog.cpp.o  -o demo01 -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so.0.6.0 -Wl,-Bstatic -lgflags -lglog -Wl,-Bdynamic /usr/local/lib/libgflags.so.2.2.2 -lpthread 
